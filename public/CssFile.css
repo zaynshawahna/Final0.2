@@ -1,0 +1,235 @@
+/* Message.css */
+.avatar {
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+  }
+  
+  .secondary-text {
+    color: #8d8d8d;
+    margin-top: 4%;
+  }
+  
+  .time-wrapper {
+    display: flex;
+    align-items: center;
+    color: black;
+  }
+  
+  .record-icon {
+    margin-left: 4px;
+  }
+/* PageThree.css */
+.page-container {
+    background-color: black;
+  }
+  
+  .sidebar {
+    color: white;
+    width: 130%;
+  }
+  
+  .sidebar-header {
+    display: flex;
+    align-items: center;
+    margin: 6% 0% 0% 0%;
+    padding: 5% 4% 7% 4%;
+    border-bottom: solid 2px #1d1d1d;
+    border-right: solid 2px #1d1d1d;
+    border-left: solid 2px #1d1d1d;
+  }
+  
+  .sidebar-username {
+    color: white;
+  }
+  
+  .dropdown-icon {
+    margin-left: auto;
+  }
+  
+  .edit-icon {
+    margin-left: auto;
+  }
+  
+  .messages-container {
+    border-right: solid 2px #1d1d1d;
+    border-left: solid 2px #1d1d1d;
+    height: 800px;
+  }
+  
+  .messages-header {
+    display: flex;
+    align-items: center;
+    padding: 4%;
+  }
+  
+  .messages-title {
+    color: white;
+  }
+  
+  .request-title {
+    margin-left: auto;
+    color: #8d8d8d;
+  }
+  
+  .page-content {
+    margin-top: 30%;
+    margin-left: 30%;
+  }
+  
+  .page-image {
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+  }
+  
+  .page-title {
+    color: white;
+  }
+  
+  .page-description {
+    color: #8d8d8d;
+  }
+  
+  .send-button {
+    border-radius: 5%;
+    width: 250px;
+  }
+    
+
+
+  /* ResponsiveDrawer.css */
+.drawer-container {
+    background-color: black;
+    color: white;
+    font-family: 'Poppins';
+    margin-left: 10%;
+    margin-right: 4%;
+    height: 5000px;
+  }
+  
+  .logo {
+    width: 130px;
+    height: 40px;
+    background-color: black;
+    margin-top: 13px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    float: left;
+  }
+  
+  .menu-item {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .menu-item-button {
+    display: flex;
+    align-items: center;
+  }
+  
+  .menu-item-icon {
+    background-color: black;
+    color: white;
+    font-family: 'Poppins';
+  }
+  
+  .sidebar {
+    background-color: black;
+    color: white;
+    font-family: 'Poppins';
+  }
+/* AvatarStack.css */
+.avatar-stack-container {
+    width: 90%;
+    border-bottom: solid 2px #1d1d1d;
+  }
+  
+  .avatar-stack {
+    width: 90%;
+    height: 90%;
+    margin-left: 2%;
+  }
+  
+/* Post.css */
+.post-container {
+    width: 90%;
+  }
+  
+  .post-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .post-avatar {
+    width: 8%;
+    height: auto;
+  }
+  
+  .post-username {
+    color: white;
+  }
+  
+  .post-icons {
+    display: flex;
+    align-items: center;
+    color: white;
+    
+  }
+  
+  .post-likes {
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+  }
+  
+  .post-description {
+    font-size: 12px;
+    font-weight: 600;
+    color: white;
+    text-align: left;
+  }
+  /* ResponsiveDrawer.css */
+.responsive-drawer-container {
+    background-color: black;
+    color: white;
+    font-family: 'Poppins';
+    margin-left: 10%;
+    margin-right: 4%;
+    height: 5000px;
+    border-right: solid 2px #1d1d1d;
+  }
+  
+  .drawer-logo {
+    width: 130px;
+    height: 40px;
+    background-color: black;
+    margin-top: 13px;
+    margin-left: 20px;
+    margin-bottom: 5px;
+    float: left;
+  }
+  
+  .drawer-link {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .drawer-list-item {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .drawer-list-item-button {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .drawer-icon {
+    color: white;
+  }
+  
+
+ 
+  
